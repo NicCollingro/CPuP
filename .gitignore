@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Resource forks / metadata files
+._*
+
+# Files that can show up at the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Files that can show up on AFP shares
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
